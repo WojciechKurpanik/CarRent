@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/resources/img">
+        <file>Resources/img/audi-rs6.png</file>
+    </qresource>
+    <qresource prefix="/resources/data">
+        <file>Resources/data/cars.txt</file>
+        <file>Resources/data/users.txt</file>
+    </qresource>
+</RCC>

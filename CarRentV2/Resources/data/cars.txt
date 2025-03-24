@@ -1,0 +1,9 @@
+VIN123456  BMW M5  Petrol  V8  Germany  600hp  2022  4.4L  $250
+VIN654321 Audi RS6 Petrol V8 Germany 591hp 2021 4.0L $280
+VIN987654 Porsche 911 Petrol Flat-6 Germany 443hp 2023 3.0L $300
+VIN456789 Mazda 6 Petrol Inline-4 Japan 194hp 2022 2.5L $150
+VIN321654 Toyota Supra Petrol Inline-6 Japan 382hp 2023 3.0L $220
+VIN789123 Tesla Model S Electric Electric USA 1020hp 2022 N/A $350
+VIN246813 BMW M3 Petrol Inline-6 Germany 473hp 2022 3.0L $230
+VIN135792 Mazda MX-5 Petrol Inline-4 Japan 181hp 2023 2.0L $180
+VIN159753 Porsche Tycan Petrol V8 Germany 700hp 2023 5.0L $400

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>AdminPanel</class>
+ <widget class="QDialog" name="AdminPanel">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>861</width>
+    <height>394</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QGroupBox" name="groupBox">
+   <property name="geometry">
+    <rect>
+     <x>190</x>
+     <y>10</y>
+     <width>501</width>
+     <height>361</height>
+    </rect>
+   </property>
+   <property name="title">
+    <string>Add New Car</string>
+   </property>
+   <layout class="QFormLayout" name="formLayout">
+    <item row="0" column="0">
+     <widget class="QLabel" name="label_Vin">
+      <property name="text">
+       <string>Vin:</string>
+      </property>
+     </widget>
+    </item>
+    <item row="0" column="1">
+     <widget class="QLineEdit" name="lineEdit_VinInput"/>
+    </item>
+    <item row="1" column="0">
+     <widget class="QLabel" name="label_Brand">
+      <property name="text">
+       <string>Brand:</string>
+      </property>
+     </widget>
+    </item>
+    <item row="1" column="1">
+     <widget class="QLineEdit" name="lineEdit_BrandInput"/>
+    </item>
+    <item row="2" column="0">
+     <widget class="QLabel" name="label_Model">
+      <property name="text">
+       <string>Model:</string>
+      </property>
+     </widget>
+    </item>
+    <item row="2" column="1">
+     <widget class="QLineEdit" name="lineEdit_ModelInput"/>
+    </item>
+    <item row="3" column="0">
+     <widget class="QLabel" name="label_year">
+      <property name="text">
+       <string>Year:</string>
+      </property>
+     </widget>
+    </item>
+    <item row="3" column="1">
+     <widget class="QLineEdit" name="lineEdit_YearInput"/>
+    </item>
+    <item row="4" column="0">
+     <widget class="QLabel" name="label_Power">
+      <property name="text">
+       <string>Power:</string>
+      </property>
+     </widget>
+    </item>
+    <item row="4" column="1">
+     <widget class="QLineEdit" name="lineEdit_PowerInput"/>
+    </item>
+    <item row="5" column="0">
+     <widget class="QLabel" name="label_Capacity">
+      <property name="text">
+       <string>Capacity:</string>
+      </property>
+     </widget>
+    </item>
+    <item row="5" column="1">
+     <widget class="QLineEdit" name="lineEdit_capacityInput"/>
+    </item>
+    <item row="6" column="0">
+     <widget class="QLabel" name="label_gas">
+      <property name="text">
+       <string>Gas Type:</string>
+      </property>
+     </widget>
+    </item>
+    <item row="6" column="1">
+     <widget class="QLineEdit" name="lineEdit_GastypeInput"/>
+    </item>
+    <item row="7" column="0">
+     <widget class="QLabel" name="label_engineType">
+      <property name="text">
+       <string>Engine Type:</string>
+      </property>
+     </widget>
+    </item>
+    <item row="7" column="1">
+     <widget class="QLineEdit" name="lineEdit_EngineTypeInput"/>
+    </item>
+    <item row="8" column="0">
+     <widget class="QLabel" name="label_Country">
+      <property name="text">
+       <string>Country:</string>
+      </property>
+     </widget>
+    </item>
+    <item row="8" column="1">
+     <widget class="QLineEdit" name="lineEdit_CountryInput"/>
+    </item>
+    <item row="9" column="0">
+     <widget class="QLabel" name="label_Price">
+      <property name="text">
+       <string>Price:</string>
+      </property>
+     </widget>
+    </item>
+    <item row="9" column="1">
+     <widget class="QLineEdit" name="lineEdit_PriceInput"/>
+    </item>
+    <item row="10" column="1">
+     <widget class="QPushButton" name="pushButton_AddNewCar">
+      <property name="text">
+       <string>Add</string>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
